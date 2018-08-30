@@ -3,7 +3,7 @@ Una prueba para unirse al equipo de desarrollo de Euromillions.com
 
 ***
 Autor: Ing. Diam Diaz
-el.sr.dupi@gmail.com
+el.sr.dupin@gmail.com
 ***
 
 Esta es una prueb de concepto, usando Laravel Zero para desarrollar la prueba propuesta
